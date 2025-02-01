@@ -1,52 +1,53 @@
-<div align="center">
-  <img height="180" src="https://th.bing.com/th/id/OIP.fC-T_p2cjihhLW96XS8iwgHaEK?rs=1&pid=ImgDetMain"  />
-</div>
+## Hi there! 👋
 
-###
+I'm **Nasim Hossain**, a passionate developer with a keen interest in web technologies and software development. 🚀 I'm always eager to learn new skills and collaborate on exciting projects!
 
-<div align="center">
-  <img src="https://mail.google.com/mail/u/0/?hl=en-GB#inbox" height="25" alt="gmail logo"  />
-  <img src="https://www.instagram.com/nasimhossain22/" height="25" alt="instagram logo"  />
-  <img src="https://www.facebook.com/md.nasim.hossain.3954/" height="25" alt="facebook logo"  />
-  <img src="https://web.whatsapp.com/" height="25" alt="whatsapp logo"  />
-</div>
+## About Me
 
-###
+I am currently exploring the world of coding and web development. Though I am at the beginning of my journey, I am committed to honing my skills. I strive to build impactful and efficient applications. I am based in Dhaka,Bangladesh and I'm excited about the opportunities that lie ahead!
 
-<h1 align="center">hey there 👋</h1>
+## Skills & Technologies
 
-###
+html,css,js,c,java,cs,py
 
-<h3 align="left">👩‍💻  About Me</h3>
+## Top Projects
 
-###
+- **[Portfolio](https://github.com/nasimhossain4764/Portfolio)**  
+  A showcase of my projects and skills.  
+  Stars: 0 | Language: HTML  
+  Forks: 0 | Issues: 0  
 
-<p align="left">I'm  Nasim Hossain from  Bangladesh<br><br>- 🔭 I’m a student of Computer Science <br>- 📚 I'm currently learning Web development<br>- ⚡ In my free time I read tech articles</p>
+- **[demo](https://github.com/nasimhossain4764/demo)**  
+  A simple demo project demonstrating web development concepts.  
+  Stars: 0 | Language: HTML  
+  Forks: 0 | Issues: 0  
 
-###
+- **[first-website](https://github.com/nasimhossain4764/first-website)**  
+  My very first website project to learn HTML and CSS.  
+  Stars: 0 | Language: HTML  
+  Forks: 0 | Issues: 0  
 
-<h3 align="left">🛠 Language and tools</h3>
+- **[nasimhossain4764](https://github.com/nasimhossain4764/nasimhossain4764)**  
+  Personal repository for various coding experiments and learning.  
+  Stars: 0 | Language: Not Specified  
+  Forks: 0 | Issues: 0
 
-###
+## GitHub Stats
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+### 📊 GitHub Stats  
+- Public Repositories: 4  
+- Followers: 0  
+- Following: 0  
 
-###
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nasimhossain4764&show_icons=true&theme=radical)
 
-<h3 align="left">🔥   My Stats :</h3>
+## Recent Activity
 
-###
+### ✨ Recent Activities  
+- **Created** the [Portfolio](https://github.com/nasimhossain4764/Portfolio) repository.  
+- **Updated** the [demo](https://github.com/nasimhossain4764/demo) with new features.  
+- **Pushed** recent changes to [first-website](https://github.com/nasimhossain4764/first-website).
+
+## Connect with Me
+
+- **Email:** [nasimhossain4764@gmail.com](mailto:nasimhossain4764@gmail.com)
